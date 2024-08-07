@@ -1,0 +1,15 @@
+span{
+    padding: 5px; display: inline-block; border-radius: 3px;
+}
+
+span.message{
+    background-color: rgba(0,200,0,.5);
+}
+
+span.warning{
+    background-color: rgba(200,0,0,.5);
+}
+
+.text-white{
+    color: white;
+}

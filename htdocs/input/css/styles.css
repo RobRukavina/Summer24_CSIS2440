@@ -1,0 +1,12 @@
+.bkg{
+    background-color: lightblue !important;
+}
+
+.text-center{
+    text-align: center !important;
+}
+span.warning{
+    color: rgba(255, 0, 0, 0.8);
+    font-weight: 600;
+    font-size: larger;
+}
