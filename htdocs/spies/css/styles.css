@@ -1,0 +1,61 @@
+.yellow-bkg{
+    background-color: yellow;
+}
+
+.black-bkg{
+    background-color: black;
+    color: yellow;
+}
+
+.full{
+    width: 100%;
+}
+
+.denied{
+    background-color: orange;
+    color: red;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.fbi{
+    background-image: url("../img/fbi.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.spies{
+    background-image: url("../img/spies.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.warning{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: larger;
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.success{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: larger;
+    background-color: rgb(23, 170, 15);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input[type=checkbox]{
+    position: relative;
+    top: 3px;
+    width: 20px;
+    height: 20px;
+}

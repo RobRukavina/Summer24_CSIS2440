@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center !important;
+}
+main.milk{
+    background-image: url("../img/milk.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.relative{
+    position: relative;
+}
+
+.vertical-center {
+    margin-top: 20%;
+}

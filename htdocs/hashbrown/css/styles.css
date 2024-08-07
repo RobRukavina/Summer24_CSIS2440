@@ -1,0 +1,139 @@
+.yellow-bkg{
+    background-color:  #FFBB00;
+}
+
+.black-bkg{
+    background-color: black;
+    color:  #FFBB00;
+}
+
+.full{
+    width: 100%;
+}
+
+.denied{
+    background-color: orange;
+    color: red;
+    border-radius: 10px;
+    border-style: solid;
+}
+
+.fbi{
+    background: rgb(194,195,0);
+    background: linear-gradient(90deg, rgba(194,195,0,1) 0%, rgba(121,56,9,1) 46%);
+    min-height: 100vh;
+}
+
+.spies{
+    background: rgb(0,145,147);
+    background: linear-gradient(0deg, rgba(0,145,147,1) 0%, rgba(255,174,0,1) 100%);
+    min-height: 100vh;
+}
+
+.warning{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: larger;
+    background-color: rgb(255, 0, 0);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.success{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: larger;
+    background-color: rgb(23, 170, 15);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+input[type=checkbox]{
+    position: relative;
+    top: 3px;
+    width: 20px;
+    height: 20px;
+}
+
+.vertical-center {
+    position: absolute;
+    bottom: 50%;
+    -ms-transform: translateY(80%);
+    transform: translateY(80%);
+  }
+
+.blue{
+    background-color: cornflowerblue;
+}
+
+.img-container{
+    height: 475px !important;
+    width: 475px !important;
+}
+
+.profile-img{
+    max-width: 100%;
+    height: auto;
+}
+
+.green{
+    background-color: rgba(28, 204, 18, 0.543);
+}
+
+i{
+    padding-right: 5px;
+    margin-bottom: 28px;
+}
+
+.bkg-blue{
+    height: 100vh;
+    background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(0,18,157,1) 66%);
+}
+
+.bkg-other-blue{
+    height: 100vh;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,96,121,1) 49%, rgba(0,212,255,1) 100%);
+}
+
+.bkg-red{
+    background-color: red;
+    height: 100vh;
+}
+
+.bkg-fire{
+    background-image: url("../img/fire.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+}
+
+.green-bkg{
+    height: 100vh;
+    background: rgb(194,195,0);
+    background: linear-gradient(90deg, rgba(194,195,0,1) 0%, rgba(19,121,9,1) 63%);
+}
+
+.bdr-25{
+    border-radius: 25px !important;
+}
+
+.secondary{
+    color: grey;
+}
+
+.fs-36{
+    font-size: 36px;
+}
+
+.fs-40{
+    font-size: 40px;
+}
+
+.fs-24{
+    font-size: 24px;
+}

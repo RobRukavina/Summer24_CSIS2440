@@ -1,0 +1,41 @@
+.bkg{
+    background-color: rgb(26, 54, 112) !important;
+}
+
+.white{
+    color: white;
+}
+.sec-font-color{
+    color:ivory;
+}
+
+.text-center{
+    text-align: center !important;
+}
+.warning{
+    color: rgba(255, 0, 0, 0.8);
+    font-weight: 600;
+    font-size: larger;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.bkg-img{
+    background-image: url("../img/bearToothPass.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+main{
+    min-height: 100vh;
+}
+
+.yellow{
+    font-size: 52px;
+    color: yellow;
+}
+
+.fs-14{
+    font-size: 14px;
+}

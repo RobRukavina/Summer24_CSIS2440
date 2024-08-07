@@ -1,0 +1,22 @@
+.fs-30{
+    font-size: 30px;
+}
+
+table.wider{
+    min-width: 30vw;
+    height: auto;
+}
+
+table.border{
+    border-color: black !important;
+    border-width: 3px !important;
+}
+
+.yellow{
+    background-color: blue;
+    color: yellow;
+}
+
+.text-center{
+    text-align: center !important;
+}
